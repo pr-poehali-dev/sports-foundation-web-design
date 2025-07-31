@@ -51,7 +51,7 @@ const Index = () => {
         </div>
         <div className="absolute right-0 top-0 w-1/2 h-full">
           <img 
-            src="/img/62333bcd-c44c-4b59-b020-8aa08f441808.jpg" 
+            src="/img/984911ce-2e30-46f8-85ce-1e52955195f2.jpg" 
             alt="Российский спортсмен празднует победу"
             className="w-full h-full object-cover opacity-30 mix-blend-overlay"
           />
